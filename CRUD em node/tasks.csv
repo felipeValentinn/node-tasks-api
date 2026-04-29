@@ -1,0 +1,4 @@
+title,description
+Estudar Node.js,Revisar conceitos de streams e módulos nativos
+Fazer deploy,Subir a API no Railway ou Render
+Escrever testes,Adicionar testes com Node test runner
